@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Chess
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Prerequisites
+
+- Install the project using `npm install` or `npm i`
+- Make sure you turn on the setting `Prettier: Require Config` in your VS Code.
 
 ## Available Scripts
 
